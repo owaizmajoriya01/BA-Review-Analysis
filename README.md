@@ -101,6 +101,6 @@ Add customer recommendations for service improvements.
 
 Author
 
-[Your Name] - [Your GitHub Profile]
+Owaiz Majoriya
 
 This project is a part of my data science portfolio showcasing web scraping, NLP, and data visualization skills.
